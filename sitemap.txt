@@ -1,0 +1,9 @@
+https://slr-sfs.github.io/index.html
+https://slr-sfs.github.io/dataset/index.html
+https://slr-sfs.github.io/supplementary/index.html
+https://slr-sfs.github.io/supplementary/index_animated_results.html
+https://slr-sfs.github.io/supplementary/index_simulated_results.html
+https://slr-sfs.github.io/supplementary/index_replacement_results.html
+https://slr-sfs.github.io/supplementary/index_3d_obj_editing_results.html
+https://slr-sfs.github.io/supplementary/index_comparison_motion.html
+https://slr-sfs.github.io/supplementary/index_limitation.html
